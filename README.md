@@ -1,6 +1,4 @@
 # ClamAV
-Regular rebuilds of upstream container
-
 ![Build, scan & push](https://github.com/Polarix-Containers/clamav/actions/workflows/build.yml/badge.svg)
 
 ### Features & usage
